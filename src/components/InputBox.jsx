@@ -19,7 +19,7 @@ function InputBox({
             <div>
                 <input 
                 className=''
-                type="text"
+                type="number"
                 name="box" 
                 id={idd}
                 value={amount}
